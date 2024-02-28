@@ -1,2 +1,2 @@
 # Imbalanced-Dataset-Handling
-This is one of the most important preprocessing techniques.
+##"I will share with you some important notes on undersampling and oversampling."
